@@ -1,5 +1,0 @@
-#define icono_usuarios_width 8
-#define icono_usuarios_height 8
-static unsigned char icono_usuarios_bits[] = {
-   0x18, 0x3c, 0x3c, 0x18, 0x7e, 0x5a, 0x5a, 0x42
-};
