@@ -1,0 +1,5 @@
+#define icono_productos_width 8
+#define icono_productos_height 8
+static unsigned char icono_productos_bits[] = {
+   0x7e, 0x42, 0x5a, 0x5a, 0x42, 0x42, 0x7e, 0x00
+};

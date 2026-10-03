@@ -1,0 +1,46 @@
+[
+    {
+        "id_usuario": 1,
+        "nombre": "Admin",
+        "apellido": "Restaurante",
+        "nombre_usuario": "admin",
+        "contrasena": "1234",
+        "correo_electronico": "admin@restaurante.com",
+        "fecha_nacimiento": "2000-01-01",
+        "rol": "Administrador",
+        "rango": "Administrador"
+    },
+    {
+        "id_usuario": 2,
+        "nombre": "Anibal",
+        "apellido": "Manzano",
+        "nombre_usuario": "cajero",
+        "contrasena": "cajero2026",
+        "correo_electronico": "cajero@anibal.com",
+        "fecha_nacimiento": "2001-01-01",
+        "rol": "Empleado",
+        "rango": "Empleado"
+    },
+    {
+        "id_usuario": 3,
+        "nombre": "Martha",
+        "apellido": "Valencia",
+        "nombre_usuario": "cocina",
+        "contrasena": "cocina2026",
+        "correo_electronico": "cocina@martha.com",
+        "fecha_nacimiento": "2002-02-02",
+        "rol": "Empleado",
+        "rango": "Empleado"
+    },
+    {
+        "id_usuario": 4,
+        "nombre": "Monica",
+        "apellido": "Vega",
+        "nombre_usuario": "mesera",
+        "contrasena": "123456",
+        "correo_electronico": "monica@vega.gmail.com",
+        "fecha_nacimiento": "2001-03-12",
+        "rol": "Empleado",
+        "rango": "Empleado"
+    }
+]
